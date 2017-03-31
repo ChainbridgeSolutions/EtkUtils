@@ -5,7 +5,7 @@
  * psmiley 03/02/2017
  **/
 
-package gov.atf.bi.common.helper;
+package com.solutions.chainbridge.utilities;
 
 
 public class NumberHelper {

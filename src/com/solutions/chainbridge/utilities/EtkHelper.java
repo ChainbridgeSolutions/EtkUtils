@@ -11,7 +11,7 @@ etc
  * psmiley 06/26/2016
  **/
 
-package gov.atf.bi.common.helper;
+package com.solutions.chainbridge.utilities;
 
 
 import java.io.Serializable;

@@ -5,7 +5,7 @@
  * psmiley 10/05/2016
  **/
 
-package gov.atf.bi.common.helper;
+package com.solutions.chainbridge.utilities;
 
 
 import org.apache.commons.lang.StringUtils;

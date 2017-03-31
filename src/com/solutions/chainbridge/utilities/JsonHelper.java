@@ -5,7 +5,7 @@
  * psmiley 09/19/2016
  **/
 
-package gov.atf.bi.common.helper;
+package com.solutions.chainbridge.utilities;
 
 
 import java.util.Map;
